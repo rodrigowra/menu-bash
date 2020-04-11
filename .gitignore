@@ -1,0 +1,13 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+rascunho.sh
+.vscode
