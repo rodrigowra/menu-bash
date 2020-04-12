@@ -59,7 +59,7 @@ function others
 {
  option=0
  until [ "$option" = "3" ]; do
-printf "\n	${bggreen}****** Encrypts ******${normal}\n"
+printf "\n	${bggreen}****** Others ******${normal}\n"
 printf "	${menu}**${number} 1)${menu} Update username ${normal}\n"
 printf "	${menu}**${number} 2)${menu} Update password ${normal}\n"
 printf "	${menu}**${number} 3)${menu} Return to menu ${normal}\n"
